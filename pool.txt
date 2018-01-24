@@ -1,3 +1,4 @@
+# New remote conf on github 2018-01-24 Wed
 # globalminer ethminer
 # 2018-01-22 Mon
 # ~1100W consumo (~182 mH/s total)
