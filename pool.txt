@@ -17,7 +17,7 @@ proxypool2 eu1.ethermine.org:4444
 # flags --cl-global-work 8192 --farm-recheck 200
 flags --cl-global-work 16384 --farm-recheck 200
 
-globalcore 1200
+globalcore 1180
 globalmem 2150
 globalpowertune 4
 
