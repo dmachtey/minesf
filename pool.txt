@@ -26,7 +26,7 @@ custompanel minesf2630mi
 
 
 # 2018-01-22 Mon
-autoreboot 2
+autoreboot 3
 
 
 
