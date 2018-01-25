@@ -18,7 +18,7 @@ proxypool2 eu1.ethermine.org:4444
 flags --cl-global-work 16384 --farm-recheck 200
 
 globalcore 1150
-globalmem 2180
+globalmem 2200
 globalpowertune 5
 
 globalfan 85
@@ -26,7 +26,7 @@ custompanel minesf2630mi
 
 
 # 2018-01-22 Mon
-autoreboot 4
+autoreboot 5
 
 
 
