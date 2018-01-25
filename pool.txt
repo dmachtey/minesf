@@ -17,7 +17,7 @@ proxypool2 eu1.ethermine.org:4444
 # flags --cl-global-work 8192 --farm-recheck 200
 flags --cl-global-work 16384 --farm-recheck 200
 
-globalcore 1150
+# globalcore 1150
 globalmem 2200
 globalpowertune 5
 
@@ -28,8 +28,9 @@ custompanel minesf2630mi
 # 2018-01-22 Mon
 autoreboot 1
 
-
 vlt 502bea 1050 1050 1050 1050 1050 1050 1050
+cor 502bea 1180 1180 1180 1180 1180 1180 1180
+reb 502bea 1
 
 
 # maxgputemp 85
