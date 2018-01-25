@@ -29,6 +29,8 @@ custompanel minesf2630mi
 autoreboot 1
 
 
+vlt 502bea 1050 1050 1050 1050 1050 1050 1050
+
 
 # maxgputemp 85
 # stratumproxy enabled
