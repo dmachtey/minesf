@@ -19,14 +19,14 @@ flags --cl-global-work 16384 --farm-recheck 200
 
 # globalcore 1150
 globalmem 2200
-globalpowertune 5
+globalpowertune 4
 
 globalfan 85
 custompanel minesf2630mi
 
 
 # 2018-01-22 Mon
-autoreboot 1
+autoreboot 2
 
 vlt 502bea 1050 1050 1050 1050 1050 1050 1050
 cor 502bea 1180 1180 1180 1180 1180 1180 1180
