@@ -24,8 +24,6 @@ globalpowertune 4
 globalfan 85
 custompanel minesf2630mi
 
-
-# 2018-01-22 Mon
 autoreboot 1
 
 
