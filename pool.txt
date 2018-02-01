@@ -24,7 +24,7 @@ globalpowertune 4
 globalfan 85
 custompanel minesf2630mi
 
-autoreboot 1
+autoreboot 3
 
 
 # vlt 502bea 1000 1000 1000 1000 1000 1000 1000
