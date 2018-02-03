@@ -1,7 +1,5 @@
 # New remote conf on github 2018-01-24 Wed
-# globalminer ethminer
-# 2018-01-22 Mon
-# ~1100W consumo (~182 mH/s total)
+
 globalminer claymore
 
 maxgputemp 75
@@ -9,8 +7,6 @@ stratumproxy enabled
 proxywallet 0xa98afca27a7689f88461cd892058551c1efa78f0
 proxypool1 us1.ethermine.org:4444
 proxypool2 eu1.ethermine.org:4444
-# proxypool2 us2.ethermine.org:4444
-
 
 # Info about next parameters
 # https://forum.ethereum.org/discussion/6260/cl-local-work-cl-global-work-settings
@@ -24,13 +20,14 @@ globalpowertune 4
 globalfan 85
 custompanel minesf2630mi
 
-autoreboot 3
+autoreboot 300
 
-
-# vlt 502bea 1000 1000 1000 1000 1000 1000 1000
+vlt 502bea 1000 1000 1000 1000 1000 1000 1000
 # cor 502bea 1180 1180 1180 1180 1180 1180 1180
 # mem 502bea 2200 2200 2200 2200 2200 2200 2200
 reb 502bea 1
+loc 502bea del_Mati
+
 
 
 # maxgputemp 85
