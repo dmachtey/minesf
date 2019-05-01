@@ -28,7 +28,7 @@ vlt 502bea 960 960 960 960 960 960 960
 # mem 502bea 2200 2200 2200 2200 2200 2200 2200
 # reb 502bea 16
 
-reb 502bea 1554161670 #boot manager?? 20190401
+reb 502bea 1554161671 #boot manager?? 20190401
 
 loc 502bea del_Mati
 
