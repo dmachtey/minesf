@@ -1,10 +1,10 @@
 # New remote conf on github 2018-01-24 Wed
-reb 502bea 1574361508
+reb 502bea 1583278471
 
 globalminer claymore
 
 # will disable som of GPU 2020/03/03 
-sel c94e13 1 2 3 4 6
+sel 502bea 1 2 3 4 6
 
 
 maxgputemp 75
