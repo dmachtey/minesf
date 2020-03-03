@@ -3,6 +3,10 @@ reb 502bea 1574361508
 
 globalminer claymore
 
+# will disable som of GPU 2020/03/03 
+sel c94e13 1 2 3 4 6
+
+
 maxgputemp 75
 stratumproxy enabled
 proxywallet 0xa98afca27a7689f88461cd892058551c1efa78f0
