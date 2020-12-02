@@ -1,5 +1,5 @@
 # New remote conf on github 2018-01-24 Wed
-reb 502bea 1606863935
+reb 502bea 1606940572
 
 globalminer claymore
 
