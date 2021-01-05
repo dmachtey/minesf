@@ -8,7 +8,9 @@ globalminer ethminer
 
 
 maxgputemp 75
-stratumproxy enabled
+####stratumproxy enabled
+stratumproxy miner
+
 proxywallet 0xa98afca27a7689f88461cd892058551c1efa78f0
 proxypool1 us1.ethermine.org:4444
 proxypool2 eu1.ethermine.org:4444
@@ -16,7 +18,7 @@ proxypool2 eu1.ethermine.org:4444
 # Info about next parameters
 # https://forum.ethereum.org/discussion/6260/cl-local-work-cl-global-work-settings
 # flags --cl-global-work 8192 --farm-recheck 200
-flags --cl-global-work 16384 --farm-recheck 200
+#####flags --cl-global-work 16384 --farm-recheck 200
 
 globalcore 1150
 globalmem 2120
