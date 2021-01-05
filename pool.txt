@@ -1,7 +1,7 @@
 # New remote conf on github 2018-01-24 Wed
 reb 502bea 1606940572
 
-globalminer claymore
+#globalminer claymore
 
 # will disable som of GPU 2020/03/03 
 # sel 502bea 1 2 3  4 5 6
