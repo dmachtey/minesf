@@ -7,7 +7,7 @@ globalminer ethminer
 # sel 502bea 1 2 3  4 5 6
 
 
-maxgputemp 75
+maxgputemp 85
 ####stratumproxy enabled
 stratumproxy enabled
 
@@ -18,7 +18,7 @@ proxypool2 eu1.ethermine.org:4444
 # Info about next parameters
 # https://forum.ethereum.org/discussion/6260/cl-local-work-cl-global-work-settings
 # flags --cl-global-work 8192 --farm-recheck 200
-#####flags --cl-global-work 16384 --farm-recheck 200
+flags --cl-global-work 16384 --farm-recheck 200
 
 globalcore 1150
 globalmem 2120
